@@ -2,3 +2,6 @@ magic
 abra
 kadabra
 lady
+
+BOR
+GORE
